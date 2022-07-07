@@ -69,6 +69,17 @@ The physical implementation of the elaborated RAPID module was executed on the A
 https://youtu.be/hR_wtv2g4vk
 
 
+## Second routine.
+
+In this second phase of the Lab, the routine has been developed just in the simulator.
+
+The first step selects one of the 3 objects placed in the ground, so 3 wobjects ere define and 3 digital inputs were set. In this order, each of the digital inputs takes one of the object and carry it to the home position.
+Then the program waits for another input, in this case, the digital input is going to select either the row 1 or the row 2. Finally in the third step, the program take the selection between 3 colummns and then execute the routine that carries the selected object to the chosen cell.
+
+In the next video, the simulation shows how the program works.
+
+https://youtu.be/UEziFSAh6fI
+
 ## Conclusions
 
 - Conditional cycles and loops in RAPID modules are very useful when handling digital inputs, since these are generally associated to external events, that is, actions outside the instructions contemplated in the module that act as triggers of different instructions in the program, a situation that could not be achieved, or at least not in a simple way, without the implementation of this type of programming structures.
