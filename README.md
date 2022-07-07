@@ -71,9 +71,9 @@ https://youtu.be/hR_wtv2g4vk
 
 ## Conclusions
 
-Conditional cycles and loops in RAPID modules are very useful when handling digital inputs, since these are generally associated to external events, that is, actions outside the instructions contemplated in the module that act as triggers of different instructions in the program, a situation that could not be achieved, or at least not in a simple way, without the implementation of this type of programming structures.
+- Conditional cycles and loops in RAPID modules are very useful when handling digital inputs, since these are generally associated to external events, that is, actions outside the instructions contemplated in the module that act as triggers of different instructions in the program, a situation that could not be achieved, or at least not in a simple way, without the implementation of this type of programming structures.
 
-Digital inputs can be very useful, for example, to trigger emergency routines, when they are associated to stop buttons, or to execute sequential routines that require external monitoring and supervision by an operator.
+- Digital inputs can be very useful, for example, to trigger emergency routines, when they are associated to stop buttons, or to execute sequential routines that require external monitoring and supervision by an operator.
 
 
 
