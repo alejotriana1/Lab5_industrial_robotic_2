@@ -78,7 +78,7 @@ Then the program waits for another input, in this case, the digital input is goi
 
 In the next video, the simulation shows how the program works.
 
-https://youtu.be/UEziFSAh6fI
+https://youtu.be/9-v3_eSZvi0
 
 ## Conclusions
 
